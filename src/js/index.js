@@ -10,6 +10,8 @@ import "../styles/index.scss";
 
 //import your own components
 import { Home } from "./component/home.js";
+//import { Card } from "./component/card.js";
+//import { Navbar } from "./component/navbar.js";
 
 //render your react application
 ReactDOM.render(<Home />, document.querySelector("#app"));
